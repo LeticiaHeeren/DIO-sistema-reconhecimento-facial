@@ -1,6 +1,6 @@
 # Sistema de Reconhecimento Facial 
 
-<br>Este projeto foi desenvolvido como um desafio para aplicar bibliotecas e frameworks estudados em aula. Neste sistema foi realizada a detecção e o reconhecimento facial, especializado em identificar celebridades. Para isso, utilizei o dataset Pins Face Recognition do Kaggle, tendo Anne Hathaway como estudo de caso, mas suportando outras celebridades presentes no conjunto de dados.<br>
+<br>Este projeto foi desenvolvido como um desafio para aplicar bibliotecas e frameworks estudados em aula, com foco na prática de detecção e classificação facial. O sistema identifica rostos de celebridades. Para isso, utilizei o dataset Pins Face Recognition do Kaggle, tendo Anne Hathaway como estudo de caso, mas suportando outras celebridades presentes no conjunto de dados.<br>
 
 # Tecnologias Usadas:<br>
 
